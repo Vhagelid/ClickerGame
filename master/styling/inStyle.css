@@ -1,3 +1,18 @@
+html, body {
+    height: 100vh;
+    background-image: url("/master/assets/daHall.jpg");
+
+}
+
+p {
+    color: antiquewhite;
+}
+
+div {
+    color: antiquewhite;
+}
+
+
 .container {  display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
